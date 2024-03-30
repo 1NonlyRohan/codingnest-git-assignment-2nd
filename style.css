@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 16px;
+    text-decoration: none;
+    font-family: josefin sans;
+}
+
+.head h1{
+    color:royalblue;
+    text-align: center;
+    font-family: josefin sans;
+    font-size: 25px;
+    padding: 10px 0px 0px 0px;
+}
+
+.mid-1-content p{
+    display: block;
+    padding: 10px 10px 10px 10px;
+    font-size: 26px;
+}
+
+.mid-1-content a{
+    display: block;
+    padding: 10px 10px 10px 15px;
+}
+
+.mid-control-1 {
+    position: absolute;
+    margin: 100px 10px 10px 450px;
+}
+
+.mid-control-2{
+    position: absolute;
+    margin: 100px 10px 10px 650px;
+}
+
+.mid-control-3{
+    position: absolute;
+    margin: 100px 10px 10px 850px;
+}
