@@ -27,6 +27,10 @@
     padding: 10px 10px 10px 15px;
 }
 
+.mid-1-content a:hover{
+    color: black;
+}
+
 .mid-control-1 {
     position: absolute;
     margin: 100px 10px 10px 450px;
@@ -41,3 +45,4 @@
     position: absolute;
     margin: 100px 10px 10px 850px;
 }
+
